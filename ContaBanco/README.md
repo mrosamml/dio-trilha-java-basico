@@ -1,7 +1,6 @@
-
 # DIO - Trilha Java Básico 
 
-##Desafio 
+## Desafio 
 
 Foi criado um projeto `ContaBanco` com uma classe `ContaTerminal.java` onde realizei toda a codificação do programa. 
 
@@ -13,5 +12,3 @@ Foi criado um projeto `ContaBanco` com uma classe `ContaTerminal.java` onde real
 | Agencia   | Texto    | 067-8
 | Nome Cliente | Texto    | MARIO ANDRADE
 | Saldo | Decimal |237.48
-
-
